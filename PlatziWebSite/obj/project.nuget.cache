@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bs74/YVkI/BCIroGpMFXyagLkEvuZsvlixO/7SoQgEf+2HtgSSB5moYbOaZ5QgJuPO+vdu/bIkXV8uOIxD1p8Q==",
+  "dgSpecHash": "ihfY3xxeSot5ayywbkV//4d1ESr6K+H/HmyGEw0jH64T6amsdP+mCsUSpA4UtXC1SIyZpYaO3yRfrDXjqA9G/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cesar.silva\\OneDrive - SoftwareONE\\Cursos\\Web Apps y Logic Apps en azure\\platziwebsite\\PlatziWebSite.csproj",
+  "projectFilePath": "C:\\dev\\Courses\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziWebSite\\PlatziWebSite.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

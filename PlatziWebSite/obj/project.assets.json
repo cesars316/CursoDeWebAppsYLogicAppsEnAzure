@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cesar.silva\\OneDrive - SoftwareONE\\Cursos\\Web Apps y Logic Apps en azure\\PlatziWebSite\\PlatziWebSite.csproj",
+      "projectUniqueName": "C:\\dev\\Courses\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziWebSite\\PlatziWebSite.csproj",
       "projectName": "PlatziWebSite",
-      "projectPath": "C:\\Users\\cesar.silva\\OneDrive - SoftwareONE\\Cursos\\Web Apps y Logic Apps en azure\\PlatziWebSite\\PlatziWebSite.csproj",
+      "projectPath": "C:\\dev\\Courses\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziWebSite\\PlatziWebSite.csproj",
       "packagesPath": "C:\\Users\\cesar.silva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cesar.silva\\OneDrive - SoftwareONE\\Cursos\\Web Apps y Logic Apps en azure\\PlatziWebSite\\obj\\",
+      "outputPath": "C:\\dev\\Courses\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziWebSite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cesar.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",

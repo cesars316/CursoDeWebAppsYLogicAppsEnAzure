@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cesar.silva\\OneDrive - SoftwareONE\\Cursos\\Web Apps y Logic Apps en azure\\platziwebsite\\PlatziWebSite.csproj": {}
+    "C:\\dev\\Courses\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziWebSite\\PlatziWebSite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cesar.silva\\OneDrive - SoftwareONE\\Cursos\\Web Apps y Logic Apps en azure\\platziwebsite\\PlatziWebSite.csproj": {
+    "C:\\dev\\Courses\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziWebSite\\PlatziWebSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cesar.silva\\OneDrive - SoftwareONE\\Cursos\\Web Apps y Logic Apps en azure\\platziwebsite\\PlatziWebSite.csproj",
+        "projectUniqueName": "C:\\dev\\Courses\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziWebSite\\PlatziWebSite.csproj",
         "projectName": "PlatziWebSite",
-        "projectPath": "C:\\Users\\cesar.silva\\OneDrive - SoftwareONE\\Cursos\\Web Apps y Logic Apps en azure\\platziwebsite\\PlatziWebSite.csproj",
+        "projectPath": "C:\\dev\\Courses\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziWebSite\\PlatziWebSite.csproj",
         "packagesPath": "C:\\Users\\cesar.silva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cesar.silva\\OneDrive - SoftwareONE\\Cursos\\Web Apps y Logic Apps en azure\\platziwebsite\\obj\\",
+        "outputPath": "C:\\dev\\Courses\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziWebSite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cesar.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
